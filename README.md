@@ -14,4 +14,4 @@ Ricci tensor:- This file Computes the Ricci tensor using the Christoffel_symbols
 This file does not need the Riemann Tensor files as it uses a definition of the ricci tensor that only requires the Christoffel symbols.
 Although the Ricci tensor has only 2 indices the code takes a while to give it's first output due to the use of the Einstein summation law used to compute it.
 
-Note: To compute any single just uncomment the nested for loops at the end of each file.
+Note: To compute any single tensor or symbol, just uncomment the nested for loops at the end of each file.
